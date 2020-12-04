@@ -3,7 +3,7 @@ package mortgagecalc;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
-public class myClass {
+public class Mortgage {
 
 	public static void main(String[] args) {
 		final int MONTHS_IN_YEAR = 12;
